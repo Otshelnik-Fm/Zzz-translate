@@ -1,0 +1,209 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: currency\n"
+"POT-Creation-Date: 2019-12-01 17:26+0400\n"
+"PO-Revision-Date: 2019-12-01 22:45+0400\n"
+"Last-Translator: \n"
+"Language-Team: Otshelnik-Fm@ya.ru\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ../collections\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: currency.php\n"
+
+#: currency.php:6
+msgid "Australian Dollar"
+msgstr "Австралийский доллар"
+
+#: currency.php:7
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+#: currency.php:8
+msgid "bitcoin"
+msgstr "bitcoin"
+
+#: currency.php:9
+msgid "Brazilian Real"
+msgstr "Бразильский реал"
+
+#: currency.php:10
+msgid "British Pound"
+msgstr "Британский фунт"
+
+#: currency.php:11
+msgid "Canadian Dollar"
+msgstr "Канадский доллар"
+
+#: currency.php:12
+msgid "Chinese Yen (¥)"
+msgstr "Китайская Иена (¥)"
+
+#: currency.php:13
+msgid "Chinese Yuan (元)"
+msgstr "Китайский юань (元)"
+
+#: currency.php:14
+msgid "Czech Koruna"
+msgstr "Чешская крона"
+
+#: currency.php:15
+msgid "Currency"
+msgstr "Валюта"
+
+#: currency.php:16
+msgid "currency"
+msgstr "валюта"
+
+#: currency.php:17
+msgid "Danish Krone"
+msgstr "Датская крона"
+
+#: currency.php:18
+msgid "Dollar"
+msgstr "Доллар"
+
+#: currency.php:19
+msgid "dollar"
+msgstr "доллар"
+
+#: currency.php:20
+msgid "Ethereum"
+msgstr "Ethereum"
+
+#: currency.php:21
+msgid "ethereum"
+msgstr "ethereum"
+
+#: currency.php:22
+msgid "Euro"
+msgstr "Евро"
+
+#: currency.php:23
+msgid "Hong Kong Dollar"
+msgstr "Гонконгский доллар"
+
+#: currency.php:24
+msgid "Hungarian Forint"
+msgstr "Венгерский форинт"
+
+#: currency.php:25
+msgid "Indian Rupee"
+msgstr "Индийская Рупия"
+
+#: currency.php:26
+msgid "Indonesian Rupiah"
+msgstr "Индонезийская Рупия"
+
+#: currency.php:27
+msgid "Israeli New Sheqel"
+msgstr "Израильский новый шекель"
+
+#: currency.php:28
+msgid "Japanese Yen"
+msgstr "Японская Иена"
+
+#: currency.php:29
+msgid "Korean Won"
+msgstr "Южнокорейская Вона"
+
+#: currency.php:30
+msgid "Litecoin"
+msgstr "Litecoin"
+
+#: currency.php:31
+msgid "litecoin"
+msgstr "litecoin"
+
+#: currency.php:32
+msgid "Malaysian Ringgit"
+msgstr "Малайзийский ринггит"
+
+#: currency.php:33
+msgid "Mexican Peso"
+msgstr "Мексиканское песо"
+
+#: currency.php:34
+msgid "Nigerian Naira"
+msgstr "Нигерийская найра"
+
+#: currency.php:35
+msgid "New Zealand Dollar"
+msgstr "Новозеландский доллар"
+
+#: currency.php:36
+msgid "Norwegian Krone"
+msgstr "Норвежская крона"
+
+#: currency.php:37
+msgid "Philippine Peso"
+msgstr "Филиппинское песо"
+
+#: currency.php:38
+msgid "Polish Złoty"
+msgstr "Польский злотый"
+
+#: currency.php:39
+msgid "Rouble"
+msgstr "Рубль"
+
+#: currency.php:40
+msgid "rouble"
+msgstr "рубль"
+
+#: currency.php:41
+msgid "Ruble"
+msgstr "Рубль"
+
+#: currency.php:42
+msgid "ruble"
+msgstr "рубль"
+
+#: currency.php:43
+msgid "Russian Ruble"
+msgstr "Российский рубль"
+
+#: currency.php:44
+msgid "Swedish Krona"
+msgstr "Шведская крона"
+
+#: currency.php:45
+msgid "Singapore Dollar"
+msgstr "Сингапурский доллар"
+
+#: currency.php:46
+msgid "South African Rand"
+msgstr "Ранд ЮАР"
+
+#: currency.php:47
+msgid "Swiss Franc"
+msgstr "Швейцарский франк"
+
+#: currency.php:48
+msgid "Taiwan New Dollar"
+msgstr "Тайваньский новый доллар"
+
+#: currency.php:49
+msgid "Thai Baht"
+msgstr "Тайский бат"
+
+#: currency.php:50
+msgid "Turkish Lira"
+msgstr "Турецкая лира"
+
+#: currency.php:51
+msgid "US Dollar"
+msgstr "Доллар США"
+
+#: currency.php:52
+msgid "US Dollar Cent"
+msgstr "Цент США"
+
+#: currency.php:53
+msgid "Vietnamese Dong"
+msgstr "Вьетнамский Донг"

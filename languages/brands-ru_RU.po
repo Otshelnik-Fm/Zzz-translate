@@ -1,0 +1,129 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: brands\n"
+"POT-Creation-Date: 2019-12-01 14:20+0400\n"
+"PO-Revision-Date: 2019-12-01 22:44+0400\n"
+"Last-Translator: \n"
+"Language-Team: Otshelnik-Fm@ya.ru\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ../collections\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: brands.php\n"
+
+#: brands.php:6
+msgid "Amazon"
+msgstr "Amazon"
+
+#: brands.php:7
+msgid "Apple"
+msgstr "Apple"
+
+#: brands.php:8
+msgid "Bitbucket"
+msgstr "Bitbucket"
+
+#: brands.php:9
+msgid "Cloudflare"
+msgstr "Cloudflare"
+
+#: brands.php:10
+msgid "Codepen"
+msgstr "Codepen"
+
+#: brands.php:11
+msgid "Dropbox"
+msgstr "Dropbox"
+
+#: brands.php:12
+msgid "Facebook"
+msgstr "Facebook"
+
+#: brands.php:13
+msgid "GitHub"
+msgstr "GitHub"
+
+#: brands.php:14
+msgid "GitLab"
+msgstr "GitLab"
+
+#: brands.php:15
+msgid "Google"
+msgstr "Google"
+
+#: brands.php:16
+msgid "Instagram"
+msgstr "Instagram"
+
+#: brands.php:17
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: brands.php:18
+msgid "Mailchimp"
+msgstr "Mailchimp"
+
+#: brands.php:19
+msgid "PayPal"
+msgstr "PayPal"
+
+#: brands.php:20
+msgid "Pied Piper"
+msgstr "Pied Piper"
+
+#: brands.php:21
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: brands.php:22
+msgid "Skype"
+msgstr "Skype"
+
+#: brands.php:23
+msgid "Slack"
+msgstr "Slack"
+
+#: brands.php:24
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: brands.php:25
+msgid "Steam"
+msgstr "Steam"
+
+#: brands.php:26
+msgid "Telegram"
+msgstr "Telegram"
+
+#: brands.php:27
+msgid "Twitter"
+msgstr "Twitter"
+
+#: brands.php:28
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: brands.php:29
+msgid "Visa"
+msgstr "Visa"
+
+#: brands.php:30
+msgid "VKontakte"
+msgstr "VKontakte"
+
+#: brands.php:31
+msgid "Whatsapp"
+msgstr "Whatsapp"
+
+#: brands.php:32
+msgid "WordPress"
+msgstr "WordPress"
+
+#: brands.php:33
+msgid "YouTube"
+msgstr "YouTube"

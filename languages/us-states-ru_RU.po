@@ -1,0 +1,221 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: us-states\n"
+"POT-Creation-Date: 2019-12-01 22:18+0400\n"
+"PO-Revision-Date: 2019-12-01 22:46+0400\n"
+"Last-Translator: \n"
+"Language-Team: Otshelnik-Fm@ya.ru\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ../collections\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: us-states.php\n"
+
+#: us-states.php:6
+msgid "Alabama"
+msgstr "Алабама"
+
+#: us-states.php:7
+msgid "Alaska"
+msgstr "Аляска"
+
+#: us-states.php:8
+msgid "Arizona"
+msgstr "Аризона"
+
+#: us-states.php:9
+msgid "Arkansas"
+msgstr "Арканзас"
+
+#: us-states.php:10
+msgid "California"
+msgstr "Калифорния"
+
+#: us-states.php:11
+msgid "Colorado"
+msgstr "Колорадо"
+
+#: us-states.php:12
+msgid "Connecticut"
+msgstr "Коннектикут"
+
+#: us-states.php:13
+msgid "Delaware"
+msgstr "Делавэр"
+
+#: us-states.php:14
+msgid "District Of Columbia"
+msgstr "Округ Колумбия"
+
+#: us-states.php:15
+msgid "Florida"
+msgstr "Флорида"
+
+#: us-states.php:16
+msgid "Georgia"
+msgstr "Джорджия"
+
+#: us-states.php:17
+msgid "Hawaii"
+msgstr "Гавайи"
+
+#: us-states.php:18
+msgid "Idaho"
+msgstr "Айдахо"
+
+#: us-states.php:19
+msgid "Illinois"
+msgstr "Иллинойс"
+
+#: us-states.php:20
+msgid "Indiana"
+msgstr "Индиана"
+
+#: us-states.php:21
+msgid "Iowa"
+msgstr "Айова"
+
+#: us-states.php:22
+msgid "Kansas"
+msgstr "Канзас"
+
+#: us-states.php:23
+msgid "Kentucky"
+msgstr "Кентукки"
+
+#: us-states.php:24
+msgid "Louisiana"
+msgstr "Луизиана"
+
+#: us-states.php:25
+msgid "Maine"
+msgstr "Мэн"
+
+#: us-states.php:26
+msgid "Maryland"
+msgstr "Мэриленд"
+
+#: us-states.php:27
+msgid "Massachusetts"
+msgstr "Массачусетс"
+
+#: us-states.php:28
+msgid "Michigan"
+msgstr "Мичиган"
+
+#: us-states.php:29
+msgid "Minnesota"
+msgstr "Миннесота"
+
+#: us-states.php:30
+msgid "Mississippi"
+msgstr "Миссисипи"
+
+#: us-states.php:31
+msgid "Missouri"
+msgstr "Миссури"
+
+#: us-states.php:32
+msgid "Montana"
+msgstr "Монтана"
+
+#: us-states.php:33
+msgid "Nebraska"
+msgstr "Небраска"
+
+#: us-states.php:34
+msgid "Nevada"
+msgstr "Невада"
+
+#: us-states.php:35
+msgid "New Hampshire"
+msgstr "Нью-Гэмпшир"
+
+#: us-states.php:36
+msgid "New Jersey"
+msgstr "Нью-Джерси"
+
+#: us-states.php:37
+msgid "New Mexico"
+msgstr "Нью-Мексико"
+
+#: us-states.php:38
+msgid "New York"
+msgstr "Нью-Йорк"
+
+#: us-states.php:39
+msgid "North Carolina"
+msgstr "Северная Каролина"
+
+#: us-states.php:40
+msgid "North Dakota"
+msgstr "Северная Дакота"
+
+#: us-states.php:41
+msgid "Ohio"
+msgstr "Огайо"
+
+#: us-states.php:42
+msgid "Oklahoma"
+msgstr "Оклахома"
+
+#: us-states.php:43
+msgid "Oregon"
+msgstr "Орегон"
+
+#: us-states.php:44
+msgid "Pennsylvania"
+msgstr "Пенсильвания"
+
+#: us-states.php:45
+msgid "Rhode Island"
+msgstr "Род-Айленд"
+
+#: us-states.php:46
+msgid "South Carolina"
+msgstr "Южная Каролина"
+
+#: us-states.php:47
+msgid "South Dakota"
+msgstr "Южная Дакота"
+
+#: us-states.php:48
+msgid "Tennessee"
+msgstr "Теннесси"
+
+#: us-states.php:49
+msgid "Texas"
+msgstr "Техас"
+
+#: us-states.php:50
+msgid "Utah"
+msgstr "Юта"
+
+#: us-states.php:51
+msgid "Vermont"
+msgstr "Вермонт"
+
+#: us-states.php:52
+msgid "Virginia"
+msgstr "Вирджиния"
+
+#: us-states.php:53
+msgid "Washington"
+msgstr "Вашингтон"
+
+#: us-states.php:54
+msgid "West Virginia"
+msgstr "Западная Вирджиния"
+
+#: us-states.php:55
+msgid "Wisconsin"
+msgstr "Висконсин"
+
+#: us-states.php:56
+msgid "Wyoming"
+msgstr "Вайоминг"

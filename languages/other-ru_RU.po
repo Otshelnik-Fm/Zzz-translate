@@ -1,0 +1,481 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: other\n"
+"POT-Creation-Date: 2019-12-01 21:57+0400\n"
+"PO-Revision-Date: 2019-12-01 22:45+0400\n"
+"Last-Translator: \n"
+"Language-Team: Otshelnik-Fm@ya.ru\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ../collections\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: other.php\n"
+
+#: other.php:6
+msgid "Access"
+msgstr "Доступ"
+
+#: other.php:7
+msgid "access"
+msgstr "доступ"
+
+#: other.php:8
+msgid "Add"
+msgstr "Добавить"
+
+#: other.php:9
+msgid "and"
+msgstr "и"
+
+#: other.php:10
+msgid "attachment"
+msgstr "вложение"
+
+#: other.php:11
+msgid "After"
+msgstr "После"
+
+#: other.php:12
+msgid "after"
+msgstr "после"
+
+#: other.php:13
+msgid "Allowed Files"
+msgstr "Разрешенные файлы"
+
+#: other.php:14
+msgid "Author"
+msgstr "Автор"
+
+#: other.php:15
+msgid "author"
+msgstr "автор"
+
+#: other.php:16
+msgid "Avatar"
+msgstr "Аватар"
+
+#: other.php:17
+msgid "avatar"
+msgstr "аватар"
+
+#: other.php:18
+msgid "Before"
+msgstr "Перед"
+
+#: other.php:19
+msgid "before"
+msgstr "перед"
+
+#: other.php:20
+msgid "Block Editor"
+msgstr "Редактор блоков"
+
+#: other.php:21
+msgid "Block editor"
+msgstr "Редактор блоков"
+
+#: other.php:22
+msgid "Capabilities"
+msgstr "Возможности"
+
+#: other.php:23
+msgid "capabilities"
+msgstr "возможности"
+
+#: other.php:24
+msgid "Change Password"
+msgstr "Изменить пароль"
+
+#: other.php:25
+msgid "Changelog"
+msgstr "Список изменений"
+
+#: other.php:26
+msgid "changelog"
+msgstr "список изменений"
+
+#: other.php:27
+msgid "Checkbox"
+msgstr "Чекбокс"
+
+#: other.php:28
+msgid "checkbox"
+msgstr "чекбокс"
+
+#: other.php:29
+msgid "Classic Editor"
+msgstr "Классический редактор"
+
+#: other.php:30
+msgid "classic editor"
+msgstr "классический редактор"
+
+#: other.php:31
+msgid "Comments"
+msgstr "Комментарии"
+
+#: other.php:32
+msgid "comments"
+msgstr "комментарии"
+
+#: other.php:33
+msgid "Current Color"
+msgstr "Текущий цвет"
+
+#: other.php:34
+msgid "Dashboard"
+msgstr "Панель управления"
+
+#: other.php:35
+msgid "Default"
+msgstr "По умолчанию"
+
+#: other.php:36
+msgid "Drop Caps"
+msgstr "Буквица"
+
+#: other.php:37
+msgid "Drop caps"
+msgstr "Буквица"
+
+#: other.php:38
+msgid "Edit Profile"
+msgstr "Редактировать профиль"
+
+#: other.php:39
+msgid "Encryption"
+msgstr "Шифрование"
+
+#: other.php:40
+msgid "Excerpt"
+msgstr "Отрывок"
+
+#: other.php:41
+msgid "Export"
+msgstr "Экспорт"
+
+#: other.php:42
+msgid "Featured Image"
+msgstr "Изображение записи"
+
+#: other.php:43
+msgid "Female"
+msgstr "Женщина"
+
+#: other.php:44
+msgid "female"
+msgstr "женщина"
+
+#: other.php:45
+msgid "First Name"
+msgstr "Имя"
+
+#: other.php:46
+msgid "Help"
+msgstr "Помощь"
+
+#: other.php:47
+msgid "help"
+msgstr "помощь"
+
+#: other.php:48
+msgid "Image Sizes"
+msgstr "Размер изображения"
+
+#: other.php:49
+msgid "Import"
+msgstr "Импорт"
+
+#: other.php:50
+msgid "import"
+msgstr "импорт"
+
+#: other.php:51
+msgid "Knowledge Base"
+msgstr "База знаний"
+
+#: other.php:52
+msgid "Language"
+msgstr "Язык"
+
+#: other.php:53
+msgid "language"
+msgstr "язык"
+
+#: other.php:54
+msgid "Last Name"
+msgstr "Фамилия"
+
+#: other.php:55
+msgid "Link"
+msgstr "Ссылка"
+
+#: other.php:56
+msgid "link"
+msgstr "ссылка"
+
+#: other.php:57
+msgid "Link Text"
+msgstr "Текст ссылки"
+
+#: other.php:58
+msgid "Login Form"
+msgstr "Форма входа"
+
+#: other.php:59
+msgid "Logout"
+msgstr "Выход"
+
+#: other.php:60
+msgid "Male"
+msgstr "Мужчина"
+
+#: other.php:61
+msgid "male"
+msgstr "мужчина"
+
+#: other.php:62
+msgid "Media Library"
+msgstr "Медиабиблиотека"
+
+#: other.php:63
+msgid "Nickname"
+msgstr "Ник"
+
+#: other.php:64
+msgid "nickname"
+msgstr "ник"
+
+#: other.php:65
+msgid "No"
+msgstr "Нет"
+
+#: other.php:66
+msgid "no"
+msgstr "нет"
+
+#: other.php:67
+msgid "Not Found"
+msgstr "Не найдено"
+
+#: other.php:68
+msgid "OK"
+msgstr "ОК"
+
+#: other.php:69
+msgid "Ok"
+msgstr "Ок"
+
+#: other.php:70
+msgid "ok"
+msgstr "ок"
+
+#: other.php:71
+msgid "Options"
+msgstr "Настройки"
+
+#: other.php:72
+msgid "options"
+msgstr "настройки"
+
+#: other.php:73
+msgid "Page"
+msgstr "Страница"
+
+#: other.php:74
+msgid "page"
+msgstr "страница"
+
+#: other.php:75
+msgid "Page Template"
+msgstr "Шаблон страницы"
+
+#: other.php:76
+msgid "Page Title"
+msgstr "Заголовок страницы"
+
+#: other.php:77
+msgid "Password"
+msgstr "Пароль"
+
+#: other.php:78
+msgid "password"
+msgstr "пароль"
+
+#: other.php:79
+msgid "Permalink"
+msgstr "Постоянная ссылка"
+
+#: other.php:80
+msgid "permalink"
+msgstr "постоянная ссылка"
+
+#: other.php:81
+msgid "Port"
+msgstr "Порт"
+
+#: other.php:82
+msgid "Preview"
+msgstr "Предпросмотр"
+
+#: other.php:83
+msgid "Profile"
+msgstr "Профиль"
+
+#: other.php:84
+msgid "Registration Form"
+msgstr "Форма регистрации"
+
+#: other.php:85
+msgid "Required"
+msgstr "Обязательно"
+
+#: other.php:86
+msgid "required"
+msgstr "обязательно"
+
+#: other.php:87
+msgid "Reorder"
+msgstr "Изменить порядок"
+
+#: other.php:88
+msgid "Reset Filters"
+msgstr "Сбросить фильтры"
+
+#: other.php:89
+msgid "Results"
+msgstr "Результаты"
+
+#: other.php:90
+msgid "Revisions"
+msgstr "Редакции"
+
+#: other.php:91
+msgid "RSS Feed"
+msgstr "RSS-лента"
+
+#: other.php:92
+msgid "RSS feed"
+msgstr "RSS-лента"
+
+#: other.php:93
+msgid "Save Settings"
+msgstr "Сохранить настройки"
+
+#: other.php:94
+msgid "Select Color"
+msgstr "Выбранный цвет"
+
+#: other.php:95
+msgid "Settings"
+msgstr "Настройки"
+
+#: other.php:96
+msgid "settings"
+msgstr "настройки"
+
+#: other.php:97
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: other.php:98
+msgid "shortcode"
+msgstr "шорткод"
+
+#: other.php:99
+msgid "Shortcodes"
+msgstr "Шорткоды"
+
+#: other.php:100
+msgid "shortcodes"
+msgstr "шорткоды"
+
+#: other.php:101
+msgid "Taxonomy"
+msgstr "Таксономия"
+
+#: other.php:102
+msgid "Template"
+msgstr "Шаблон"
+
+#: other.php:103
+msgid "template"
+msgstr "шаблон"
+
+#: other.php:104
+msgid "Thumbnail"
+msgstr "Миниатюра"
+
+#: other.php:105
+msgid "thumbnail"
+msgstr "миниатюра"
+
+#: other.php:106
+msgid "Title"
+msgstr "Заголовок"
+
+#: other.php:107
+msgid "Tools"
+msgstr "Инструменты"
+
+#: other.php:108
+msgid "Transient"
+msgstr "Транзиент"
+
+#: other.php:109
+msgid "transient"
+msgstr "транзиент"
+
+#: other.php:110
+msgid "Type"
+msgstr "Тип"
+
+#: other.php:111
+msgid "Uploads"
+msgstr "Загрузки"
+
+#: other.php:112
+msgid "uploads"
+msgstr "загрузки"
+
+#: other.php:113
+msgid "User"
+msgstr "Пользователь"
+
+#: other.php:114
+msgid "user"
+msgstr "пользователь"
+
+#: other.php:115
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: other.php:116
+msgid "User Capabilities"
+msgstr "Возможности пользователя"
+
+#: other.php:117
+msgid "User Roles"
+msgstr "Роль пользователя"
+
+#: other.php:118
+msgid "Version"
+msgstr "Версия"
+
+#: other.php:119
+msgid "version"
+msgstr "версия"
+
+#: other.php:120
+msgid "Yes"
+msgstr "Да"
+
+#: other.php:121
+msgid "yes"
+msgstr "да"
