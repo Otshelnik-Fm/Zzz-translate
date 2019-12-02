@@ -3,6 +3,8 @@
 // непереводимые термины
 
 $data = [
+    '.htaccess'      => __( '.htaccess', 'zzz-translate' ),
+    '404'            => __( '404', 'zzz-translate' ),
     'BCC'            => __( 'BCC', 'zzz-translate' ),
     'CC'             => __( 'CC', 'zzz-translate' ),
     'cron'           => __( 'cron', 'zzz-translate' ),
